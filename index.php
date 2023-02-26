@@ -19,7 +19,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fredoka&family=Rubik:wght@400;700&family=Rufina:wght@700&display=swap" rel="stylesheet">
 
-  <title>Robles Juan Manuel - Web Developer</title>
+  <title>Robles Juan Manuel - Java/Web Developer</title>
 
 
 </head>
