@@ -140,10 +140,11 @@
             <img src="cart-logo.png">
             <h4>HTML-CSS-REACT-JAVASCRIPT</h4>
           </a>
-          <a class="eins-modal-button" data-modal-id="myModal">
-            <img src="blog.png">
-            <h4>HTML-CSS-PHP-LARAVEL-BOOTSTRAP</h4>
-          </a>
+                <a class="eins-modal-button" data-modal-id="myModal" href="https://centroeducativoutn.000webhostapp.com/">
+          <img src="blog.png" alt="blog.png">
+            <h4>HTML-CSS-PHP-LARAVEL-BOOTSTRAP-MYSQL</h4>
+              </a>
+
         </div>
       </div>
     </section>
